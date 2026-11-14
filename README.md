@@ -1,2 +1,2 @@
-# Diffie-Hellman-Nh-m-11
-ATBMTT-NHÓM 11
+# Diffie-Hellman-GROUP11
+ATBMTT- DIFFIE HELLMAN
