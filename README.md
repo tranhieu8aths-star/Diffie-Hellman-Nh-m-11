@@ -1,4 +1,4 @@
-<img width="468" height="661" alt="image" src="https://github.com/user-attachments/assets/24f63636-08c5-4d1f-9a1d-f6c616cced31" /># Diffie-Hellman-GROUP11
+
 ATBMTT- DIFFIE HELLMAN
 1. Tổng quan dự án
 Dự án này triển khai thuật toán trao đổi khóa Diffie-Hellman bằng ngôn ngữ lập trình Python. Thuật toán cho phép hai bên thiết lập một khóa bí mật chung thông qua một kênh truyền thông không an toàn mà không cần truyền trực tiếp khóa riêng tư của mình.
